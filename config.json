@@ -24,6 +24,29 @@
       "https://github.com/Pritz395/BLT-on-Cloudflare",
       "https://github.com/Pritz395/BLT-Extension",
       "https://github.com/Pritz395/Sizzle"
+    ],
+    "mentors": [
+      {
+        "name": "DonnieBLT",
+        "email": "",
+        "avatar": "https://github.com/DonnieBLT.png",
+        "role": "Lead Mentor",
+        "github": "https://github.com/DonnieBLT"
+      },
+      {
+        "name": "Carla Voorhees",
+        "email": "",
+        "avatar": "",
+        "role": "Co-Mentor",
+        "github": ""
+      },
+      {
+        "name": "Vinamra Vaswani",
+        "email": "",
+        "avatar": "",
+        "role": "Co-Mentor",
+        "github": ""
+      }
     ]
   },
   "slack": {
