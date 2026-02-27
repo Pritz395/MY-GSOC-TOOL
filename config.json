@@ -50,7 +50,7 @@
     ]
   },
   "slack": {
-    "workspaceUrl": "",
+    "workspaceUrl": "https://owasp.slack.com/ssb/redirect",
     "channels": []
   }
 }
