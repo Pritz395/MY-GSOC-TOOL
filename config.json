@@ -1,29 +1,33 @@
 {
   "student": {
-    "name": "Your Name",
-    "bio": "Google Summer of Code Contributor",
-    "avatar": "https://github.com/yourusername.png",
-    "github": "https://github.com/yourusername",
-    "email": "your.email@example.com",
-    "blog": "https://yourblog.dev",
-    "linkedin": "https://linkedin.com/in/yourprofile"
+    "name": "Preetham Poojari",
+    "bio": "Open-source contributor focused on the OWASP ecosystem, working on BLT-aligned initiatives around automation, developer workflows, and community impact. Passionate about building practical security tooling and strengthening collaborative open-source infrastructure.",
+    "avatar": "https://github.com/Pritz395.png",
+    "github": "https://github.com/Pritz395",
+    "email": "preethampujari395@gmail.com",
+    "blog": "",
+    "linkedin": "https://www.linkedin.com/in/preetham-poojari-935702280/"
   },
   "project": {
-    "title": "Your GSoC Project Title",
-    "description": "A brief description of your GSoC project and what you're working on. Explain the problem you're solving and the impact of your work.",
-    "organization": "Your Organization",
-    "timeline": "May 2024 - August 2024",
+    "title": "",
+    "description": "",
+    "organization": "OWASP BLT",
+    "timeline": "",
     "repositories": [
-      "https://github.com/YourOrg/Repository-1",
-      "https://github.com/YourOrg/Repository-2"
+      "https://github.com/Pritz395/BLT",
+      "https://github.com/Pritz395/BLT-Jobs",
+      "https://github.com/Pritz395/BLT-Next",
+      "https://github.com/Pritz395/BLT-NetGuardian",
+      "https://github.com/Pritz395/BLT-SafeCloak",
+      "https://github.com/Pritz395/BLT-team",
+      "https://github.com/Pritz395/blt-mcp",
+      "https://github.com/Pritz395/BLT-on-Cloudflare",
+      "https://github.com/Pritz395/BLT-Extension",
+      "https://github.com/Pritz395/Sizzle"
     ]
   },
   "slack": {
-    "workspaceUrl": "https://your-org.slack.com/join/shared_invite/xxx",
-    "channels": [
-      "general",
-      "gsoc-2024",
-      "your-project-channel"
-    ]
+    "workspaceUrl": "",
+    "channels": []
   }
 }
