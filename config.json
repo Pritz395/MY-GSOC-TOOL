@@ -51,6 +51,6 @@
   },
   "slack": {
     "workspaceUrl": "https://owasp.slack.com/ssb/redirect",
-    "channels": []
+    "channels": ["general", "gsoc-2026", "blt-dev"]
   }
 }
