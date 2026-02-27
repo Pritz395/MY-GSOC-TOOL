@@ -1,25 +1,25 @@
 {
   "mentors": [
     {
-      "name": "Mentor Name",
+      "name": "DonnieBLT",
       "role": "Lead Mentor",
-      "email": "mentor@example.com",
-      "github": "https://github.com/mentor",
-      "avatar": "https://github.com/mentor.png"
+      "email": "",
+      "github": "https://github.com/DonnieBLT",
+      "avatar": "https://github.com/DonnieBLT.png"
     },
     {
-      "name": "Co-Mentor Name",
+      "name": "Carla Voorhees",
       "role": "Co-Mentor",
-      "email": "comentor@example.com",
-      "github": "https://github.com/comentor",
-      "avatar": "https://github.com/mentor.png"
+      "email": "",
+      "github": "",
+      "avatar": ""
     },
     {
-      "name": "Another Mentor",
-      "role": "Organization Admin",
-      "email": "admin@example.org",
-      "github": "https://github.com/orgadmin",
-      "avatar": "https://github.com/mentor.png"
+      "name": "Vinamra Vaswani",
+      "role": "Co-Mentor",
+      "email": "",
+      "github": "",
+      "avatar": ""
     }
   ],
   "interactions": [
